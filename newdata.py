@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 no='9052030587'
 password='haseena'
-search='tshirts for men'
+search='tshirts for women'
 
 driver = webdriver.Chrome(executable_path=r'C:\Users\HP\Desktop\phyton\chromedriver_win32\chromedriver.exe')
 
